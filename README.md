@@ -2,7 +2,7 @@
 A Deep Q Network approach for Navigating an agent
 [//]: # (Image References)
 
--- The below content is copied from udacity [repo](https://github.com/udacity/deep-reinforcement-learning/tree/master/p1_navigation)
+### The below content is copied from udacity [repo](https://github.com/udacity/deep-reinforcement-learning/tree/master/p1_navigation)
 
 [image1]: https://user-images.githubusercontent.com/10624937/42135619-d90f2f28-7d12-11e8-8823-82b970a54d7e.gif "Trained Agent"
 
