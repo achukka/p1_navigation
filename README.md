@@ -1,6 +1,8 @@
+[//]: # (Image References)
+
 # p1_navigation
 A Deep Q Network approach for Navigating an agent
-[//]: # (Image References)
+
 
 ### The below content is copied from udacity [repo](https://github.com/udacity/deep-reinforcement-learning/tree/master/p1_navigation)
 
